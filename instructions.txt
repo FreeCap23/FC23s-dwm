@@ -1,0 +1,3 @@
+patch -Np1 -i <name of file.diff>
+make
+sudo make install
